@@ -1,0 +1,14 @@
+  {
+    "info": {
+        "name": "ore_depo",
+        "version": 1
+    },
+    "aliases": {
+		"coal_depo" : "file(entities/ore_depo/coal.json)",
+		"copper_depo" : "file(entities/ore_depo/copper.json)",
+		"gold_depo" : "file(entities/ore_depo/gold.json)",
+		"iron_depo" : "file(entities/ore_depo/iron.json)",
+		"silver_depo" : "file(entities/ore_depo/silver.json)",
+		"tin_depo" : "file(entities/ore_depo/tin.json)"
+    }
+}
